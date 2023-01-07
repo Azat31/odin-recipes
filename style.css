@@ -1,0 +1,25 @@
+/* style.css */ 
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 1200px;
+}
+h1, h3 {
+    text-align: center;
+}
+body {
+    background-color: rgb(174, 184, 184);
+}
+p { 
+    margin-left: 2%;
+    margin-right: 4%;
+}
+ol {
+    margin-right: 2%;
+}
+ul {
+    font-weight: 600;
+}
